@@ -119,3 +119,5 @@ This app follows Clean Architecture principles:
 ## License
 
 This project is created as a demonstration of Flutter development best practices.
+# habit_tracker
+A cross-platform Flutter project for tracking personal habits and routines. Implements MVVM architecture, local storage, and interactive UI to help users maintain consistency.
